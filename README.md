@@ -16,6 +16,11 @@
 ### 💸 Expense Splitter (Splitwise Lite)
 React-based expense tracking app with real-time balance calculation and settlement logic.
 
+### 🤖 AI Personal Finance Tracker
+Python-based personal finance tracker that takes user expense input, analyzes spending using Pandas, generates graphs using Matplotlib, and predicts next-month spending using Linear Regression.
+
+**Tech Stack:** Python, Pandas, Matplotlib, Scikit-learn, CSV
+
 ---
 
  Currently Learning
